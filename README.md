@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manaya20
-- 👀 I’m interested in Learning and Working on the field of Big data analysis 
-- 🌱 I’m currently learning Business Intelligence and it's subdomains.
+- 👀 I’m interested in Learning and Working on the field of data analysis 
 - 📫 Reach me at my gmail id: pachpor.manaya@gmail.com
 
 <!---
